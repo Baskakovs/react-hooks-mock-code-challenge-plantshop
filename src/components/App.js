@@ -12,3 +12,14 @@ function App() {
 }
 
 export default App;
+
+/* Componentns:
+
+    App
+    |_Header
+    |_PlantPage (set the state here)
+        |_NewPlantForm (PATCH here)
+        |_Search
+        |_PlantList 
+          |_Plant Card
+*/
